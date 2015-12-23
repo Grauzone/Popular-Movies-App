@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_share">Share</string>
+
+    <string name="pref_sort_title">Sorting</string>
+    <string name="pref_sort_order_text">Movie sort order:</string>
+    <string name="pref_sort_order_summary">most popular</string>
+    <string name="pref_sort_order_default">most popular</string>
+    <string name="title_activity_detail">MovieDetail</string>
+
+    <string name="favorite_desc">Favorite Vote</string>
+    <string name="detail_image_desc">Movie Image</string>
+
+    <string name="api_key">[themoviedb.org API KEY]</string>
+    <string name="grid_image_desc">movie image</string>
+
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="removed_from_favorites">Removed from Favorites</string>
+    <string name="added_to_favorites">Added to Favorites</string>
+</resources>

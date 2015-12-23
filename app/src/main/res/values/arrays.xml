@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefSortOrderList">
+        <item name="1">most popular</item>
+        <item name="2">highest rated</item>
+        <item name="3">by favorite</item>
+    </string-array>
+    <string-array name="prefSortOrderValues">
+        <item name="1">most popular</item>
+        <item name="2">highest rated</item>
+        <item name="3">by favorite</item>
+    </string-array>
+</resources>
